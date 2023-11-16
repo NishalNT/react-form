@@ -1,3 +1,6 @@
+# About
+This is a simple React form that has validation and when submitted it send the detail in api format which can be viewed in console
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
