@@ -1,0 +1,27 @@
+table{
+    margin: 20px auto 0 auto;
+    border-collapse: collapse;
+    border: 3px solid #9400FF;
+}
+
+tr,th,td{
+    padding: 16px;
+    border: 3px solid black;
+}
+
+th{
+    background-color: #9400FF;
+    color: white;
+}
+
+button{
+    padding: 10px;
+    width: 70px;
+    background-color: #9400FF;
+    border: 2px solid #9400FF;
+    margin-right: 6px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 28px;
+}

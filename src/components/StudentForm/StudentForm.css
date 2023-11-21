@@ -13,10 +13,17 @@ body{
     background: #f3f3f3;
 }
 
+.header{
+    bottom: 10px;
+}
+
 .container{
     max-width: 650px;
     padding: 28px;
-    margin: 0 28px;
+    margin: 25px 28px;
+    left: 26%;
+    right: auto;
+    position: relative;
     background: #fff;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
